@@ -1,0 +1,7 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "cd dryad-mvp && npm install",
+  "buildCommand": "cd dryad-mvp && npm run build",
+  "outputDirectory": "dryad-mvp/dist"
+}
