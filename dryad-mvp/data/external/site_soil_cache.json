@@ -1,0 +1,5723 @@
+{
+  "2635010700113900000": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2635010500107100003": {
+    "found": false
+  },
+  "2635010500107030001": {
+    "score": 42,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2635010500114940000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2635010500109930031": {
+    "found": false
+  },
+  "2635010600117620000": {
+    "score": 42,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2635010700113250000": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2635010700113710001": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2635010700113810000": {
+    "found": false
+  },
+  "2635010300116300000": {
+    "score": 69,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "06"
+  },
+  "2635010300116340000": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2635010300116000012": {
+    "score": 69,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "06"
+  },
+  "2641011200105170001": {
+    "found": false
+  },
+  "2635010100108440002": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2635010100108820000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2635010500114080002": {
+    "found": false
+  },
+  "2635010500107590015": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2635010500115000000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2635010600115080010": {
+    "score": 69,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "06"
+  },
+  "2635010600118160000": {
+    "score": 69,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "06"
+  },
+  "2635010600115160001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2635010700113110000": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2635010700112930000": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2635010700113340000": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2635010700113360000": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2635010700114370003": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2635010700114520000": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2635010700114470001": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2635010700113220000": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2635010700113760000": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2635010700113470004": {
+    "score": 42,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2635010700113490000": {
+    "score": 42,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2635010700113640000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2635010700114160000": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2635010700113970000": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2635010800103050005": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2635010300116350000": {
+    "score": 69,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "06"
+  },
+  "2635010300116200000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2635010300116630000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2635010300116590000": {
+    "score": 69,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "06"
+  },
+  "2635010300116400000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2635010300112910002": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2635010300116010002": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2635010300115940068": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2635010100200510120": {
+    "score": 64,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2635010100108730000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2635010100108910000": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2635010400111600001": {
+    "score": 69,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "06"
+  },
+  "2635010400110400004": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2635010400110570019": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2635010500114070012": {
+    "found": false
+  },
+  "2635010500114070013": {
+    "found": false
+  },
+  "2635010500105980044": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2635010600118300000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2635010600118330000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2635010600118380000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2635010400113520000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2635010200106240000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2635010400200510000": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2611013400100010002": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2611010100102390114": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2611010100102740011": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2611011500100140001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2611010700101070000": {
+    "found": false
+  },
+  "2611010700101010000": {
+    "found": false
+  },
+  "2611010700101030000": {
+    "found": false
+  },
+  "2620012100201490004": {
+    "score": 48,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2620012100105100028": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2620012100111630000": {
+    "found": false
+  },
+  "2620012100111240003": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2620012100111230002": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2620012100111230000": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2620012100111230011": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2620012100105100036": {
+    "score": 48,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2620012100105100004": {
+    "score": 48,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2620012100105100029": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2620012100111740006": {
+    "found": false
+  },
+  "2620012100111790000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2620011800103610000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2620011800103490000": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2620012100112000000": {
+    "found": false
+  },
+  "2647010100104540001": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2647010100100180053": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2647010100109050001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2647010200123730000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2647010200123500000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2647010200123470000": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2647010200123450000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2647010200123490000": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2647010200123180000": {
+    "score": 48,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2647010200122230000": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2647010200123130000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2647010200123070000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2647010200123040000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2647010200122740000": {
+    "score": 32,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2647010200122720000": {
+    "score": 32,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2647010200114310001": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2647010200123140000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2647010200122730000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2647010200122350005": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2647010200104770001": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2647010200104070000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2647010200121320001": {
+    "score": 38,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2647010200114780001": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2647010200106310006": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2647010200107890000": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2647010100114680013": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2647010100114800000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2647010100114820001": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2650010100101980001": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2650010100104170001": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2650010400101800001": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2650010200102240000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2650010100108240008": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2650010400102600002": {
+    "found": false
+  },
+  "2650010300103360016": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2650010300101100018": {
+    "found": false
+  },
+  "2650010400107430005": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2650010100106400013": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2650010100106400011": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2650010500101520000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2650010300107700000": {
+    "score": 64,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2650010400113020009": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2650010300107790000": {
+    "score": 64,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2650010100111630000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2650010100111690000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2650010100111840000": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2650010100111810000": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2650010400113360000": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2650010500106000000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2650010500106150000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2650010200101190000": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2614012400107650000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2614010600200020003": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2614012400106200002": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2614010600200600000": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2614012400107760000": {
+    "found": false
+  },
+  "2614012300106110026": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2638010600100860001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2638010600115480010": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2638010600109290000": {
+    "score": 61,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "06"
+  },
+  "2638010500201450000": {
+    "score": 54,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2638010600201030000": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2638010300111840004": {
+    "found": false
+  },
+  "2638010600101130016": {
+    "score": 69,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "06"
+  },
+  "2638010600101130007": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2638010600101130004": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2638010600100940007": {
+    "score": 69,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "06"
+  },
+  "2638010600100940001": {
+    "score": 69,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "06"
+  },
+  "2638010600100940003": {
+    "score": 69,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "06"
+  },
+  "2638010400106510009": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2638010600100850014": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2638010600115520003": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2638010600115500005": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2638010600115490001": {
+    "score": 61,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "06"
+  },
+  "2638010600115480016": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2638010700102010000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2638010700105140000": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2638010700105110000": {
+    "found": false
+  },
+  "2638010500111390000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2638010500111250000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2638010600115850000": {
+    "found": false
+  },
+  "2638010200103090005": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2638010600116730000": {
+    "found": false
+  },
+  "2638010800100940001": {
+    "score": 48,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2638010200100630040": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2638010600116080000": {
+    "found": false
+  },
+  "2638010600115480001": {
+    "score": 61,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "06"
+  },
+  "2638010100100670001": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2638010100112440005": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2638010600101200005": {
+    "found": false
+  },
+  "2638010100105340004": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2638010600114920000": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2638010300107860001": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2638010200103480006": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2638010300106010000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2638010800105020037": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2638010600109530001": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2638010600109400000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2638010600116680000": {
+    "score": 61,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "06"
+  },
+  "2638010600115250001": {
+    "found": false
+  },
+  "2638010700104970000": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2638010600100800001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2638010800100310005": {
+    "score": 51,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2638010800101400002": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2638010100105810028": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2638010100105780017": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2638010100105710011": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2638010800102340003": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2638010100105660031": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2638010400106750000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2638010700105000000": {
+    "score": 54,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2638010800100110113": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2638010100105450007": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2638010100105340023": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2638010300111490038": {
+    "score": 26,
+    "texture_code": "03",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2638010100105350015": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2638010100105370043": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2653010200107130009": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2653010200113250000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2653010200113450007": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2653010200113590000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2653010200100750000": {
+    "score": 61,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "06"
+  },
+  "2653010200100750006": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2653010200100950000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2653010300103650001": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2653010300107650003": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2653010300107760001": {
+    "score": 43,
+    "texture_code": "02",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2653010400105370002": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2653010600102980007": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2653010600103060000": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2653010600103140000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2653010600109610000": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2653010600100540227": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2653010600100540146": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2653010700101680005": {
+    "found": false
+  },
+  "2653010700101680009": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2653010800106690002": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2653010800106690003": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2653010800106770001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2653010800106830003": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2653010800106830005": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2653010800101060000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2653010500100410000": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2653010200113650001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2653010800106520015": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2653010700102880012": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2653010200106550003": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2653010600112880000": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2653010200102030000": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2653010300104130001": {
+    "score": 39,
+    "texture_code": "02",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2632010200122790000": {
+    "score": 32,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2632010500107820043": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2632010300104610001": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2632010200100690000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2632010200123280000": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2632010200123210000": {
+    "score": 51,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "06"
+  },
+  "2632010200123040000": {
+    "score": 38,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2632010200122600000": {
+    "score": 26,
+    "texture_code": "03",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2632010200101870000": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2632010200109180002": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2632010300108430000": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2632010400200930000": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2632010400108070000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010100101000001": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2632010500112500018": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2632010500112450000": {
+    "score": 61,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "06"
+  },
+  "2632010300104470005": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010500108820030": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2632010200114170012": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2632010400108160000": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2632010300109610001": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2632010300109610004": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2632010300200300000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010400108240000": {
+    "found": false
+  },
+  "2632010400108230000": {
+    "found": false
+  },
+  "2632010100109100020": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2632010200123110000": {
+    "found": false
+  },
+  "2632010100108100002": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2632010300108530001": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2632010300108310000": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2632010300109220002": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2632010300109550004": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010300109440007": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2632010500112300004": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010300109560001": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2632010400107870000": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2632010100118840000": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2632010200107500001": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2632010500112000000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2632010100111160001": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2632010200114260002": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2632010100100980002": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2632010200123010001": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2632010100111120001": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2632010300109430003": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2632010500112140039": {
+    "score": 57,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010400108090002": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010400104100004": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2632010200123290000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2632010100100970002": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2632010200123200000": {
+    "score": 51,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "06"
+  },
+  "2632010300108920000": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2632010100111070000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2632010200101880002": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2632010200122630000": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2632010300108630002": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010100111150000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2632010100108110002": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2632010300109250002": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2632010300108720003": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2632010400108110001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010400103420006": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2632010200103110000": {
+    "score": 39,
+    "texture_code": "02",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2632010100118970000": {
+    "score": 26,
+    "texture_code": "03",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2632010400108140007": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010400108120000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010400108050000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010400108140001": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2632010100100530002": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2632010200103060000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2632010200105130000": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2632010500112600019": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010100100920001": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2632010200107310000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2632010100100570002": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010500110750017": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2632010300109120001": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2632010300109600004": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010300109590013": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010300109600006": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010300108120000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2623010900107960001": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2623010800107210000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2623010800107260000": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2623010600100480000": {
+    "score": 38,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2623010100100910002": {
+    "score": 51,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2623010200109230000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2623011000105530000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2623010100105280000": {
+    "score": 57,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2623010200109250000": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2623010200109130000": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2623010200109170000": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2623011000107000004": {
+    "score": 51,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2623010700200610011": {
+    "score": 48,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2623010200101090001": {
+    "score": 57,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2623010700100430000": {
+    "found": false
+  },
+  "2623011000106690011": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2623011100100560000": {
+    "score": 51,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "06"
+  },
+  "2623010100104640001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2623010900107940002": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2623010500102000000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2623010200200650057": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2623010700101810001": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2623011100100530004": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2623010900105160005": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2623011100100010002": {
+    "score": 51,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "06"
+  },
+  "2623011100100010010": {
+    "score": 51,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "06"
+  },
+  "2623010900107940001": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2623010900107960003": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2626010700101370004": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2626010100104550002": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2626010800107070000": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2626010400101350001": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2626010400100950000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2626010800202010001": {
+    "score": 38,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2626010800200230002": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2626010500100500000": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2626010200108310001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2626010900105970093": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2626010100103340002": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2626010900110370000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2626010800118530025": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2626010800118530005": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2626010800118610002": {
+    "found": false
+  },
+  "2626010800118630001": {
+    "found": false
+  },
+  "2626010900110410000": {
+    "score": 51,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2626010300100510001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2626010100101520004": {
+    "score": 42,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2626010200104660001": {
+    "score": 42,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2626010900100150001": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2626010100105080081": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2626010900110440000": {
+    "score": 51,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2626010100105060003": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2626010100105060018": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2626010200101710008": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2626010400100800000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2626010800103870010": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2626010800113790001": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2626010800112360010": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2626010100106110002": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2626010900100540002": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2626010900100160007": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2626010900100740017": {
+    "score": 32,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2626010200104550008": {
+    "score": 42,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2626010100101360013": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2626010800118530028": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2626010800118530013": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2626010800118530009": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2626010100101500010": {
+    "score": 42,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2626010100101520015": {
+    "score": 42,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2626010800118340000": {
+    "score": 38,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2626010900106320064": {
+    "score": 32,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2626010500100870001": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2626010300100700008": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2626010600100070011": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2626010400100200049": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2626010900101570044": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2617010200107070040": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2617010400103210029": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2617010300107860001": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2617010400114030013": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2617010300100680511": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2617010300111700000": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2629010900101890022": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2629010900101890016": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2629010700200270000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2629010600201800000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2629010700101760030": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2629010700101760009": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2629010900100210010": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2629010900105580020": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2629010600107060005": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2629010700109840000": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2629010600113460030": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2629011100101760024": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2629011100102250007": {
+    "score": 32,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2629010700104730000": {
+    "score": 48,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2629010900112270001": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2629010600118640000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2629010600118600000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2629010600102430010": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2629010900112280006": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2629011100104630001": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2629010800100240002": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2629010600202020001": {
+    "score": 48,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2629010600119470000": {
+    "found": false
+  },
+  "2629010700103720024": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2629010600110460000": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2629010600109190036": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2629010900104260081": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2629010600118710000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2629010600118920000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2629010600118960000": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2629010600118980000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2629010900105550053": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2629010600117270001": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2629010900107580011": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2629010900107860030": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2629011000102090034": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2629011000101290339": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2629011000101100005": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2629010600201660006": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2629010900103030003": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2629010900102380233": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2629010900105190011": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2629010900101890079": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2629010600114750002": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2629010700104090005": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2629010600108000000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2629010900100960003": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2629010900101360008": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2671025333111190004": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671025921107750000": {
+    "score": 48,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2671025921108010000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025628113940000": {
+    "score": 51,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671033029106570000": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2671025027100030016": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025926100110001": {
+    "score": 38,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671033025102150000": {
+    "score": 24,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025629102540028": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025026200060001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671033030100120005": {
+    "found": false
+  },
+  "2671025028102450025": {
+    "found": false
+  },
+  "2671025922106920000": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2671025933201580000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671025921108600000": {
+    "score": 24,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025932103020000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025921108490000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671025921107900000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671025921107510000": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2671025625112080000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025622107220000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025622107960000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025627106900000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2671025627107090000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2671025627107180000": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2671025627107330000": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2671025627107730000": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2671025621103890003": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025621104110000": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2671025628112770000": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2671025628112900003": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2671025628113000000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671025628113200000": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2671025628113610000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025027100220002": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025027101490000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671025027101880000": {
+    "found": false
+  },
+  "2671025027102950000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025027101430000": {
+    "score": 51,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025330102570006": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671025332103860001": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025321100720012": {
+    "score": 48,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2671025921100460001": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2671025922108440000": {
+    "score": 38,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025922109250000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2671025622107690005": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025625110540000": {
+    "score": 47,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2671025625111240007": {
+    "score": 48,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2671025625111980000": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "01"
+  },
+  "2671025034107970000": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2671025026101240003": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2671025026101710000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025026101820000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2671025026102460000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2671025026109220000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025026110030002": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025021101380000": {
+    "score": 24,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025026100060000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025021101600000": {
+    "score": 24,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025021103620008": {
+    "score": 24,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025021103760006": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025025100620006": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025025101050000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025025104030000": {
+    "score": 24,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025627106740000": {
+    "score": 61,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "06"
+  },
+  "2671025627106770000": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2671025627107260000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671025627107560000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025621104420000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025628113540000": {
+    "score": 48,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2671025628113560000": {
+    "score": 34,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2671025628114050000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671033029106830000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671025022103250000": {
+    "score": 28,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2671025022103410000": {
+    "score": 28,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2671025022103460000": {
+    "score": 24,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025022103580000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671025034107730000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025034107880000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025022200340008": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671025034108000000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2671025034108020000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671025022103070002": {
+    "score": 24,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025334201090009": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2671025325106970000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671025329108930000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671025331108700000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025330106620003": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2671025325200530001": {
+    "score": 52,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "06"
+  },
+  "2671025625110360000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025625110960000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2671025625112450000": {
+    "score": 32,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2671025622107090000": {
+    "score": 48,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2671025622107420000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2641010800200460002": {
+    "score": 51,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "06"
+  },
+  "2641010800200300000": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2641011100200070009": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2641010900102960002": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2641010900102550008": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2641010700110500000": {
+    "score": 58,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2641010900109560000": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2641010700104580002": {
+    "score": 57,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2641011100100250005": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2641010900100260011": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2641010800102200002": {
+    "score": 39,
+    "texture_code": "02",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2641010400109880004": {
+    "score": 57,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2641010300100490000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2641010400109750004": {
+    "score": 51,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2641010400109890012": {
+    "score": 57,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2641011100100860000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2641010800107240000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2641011200101450009": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2641010700106370001": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2641011000101310012": {
+    "score": 48,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2641010700110230042": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2641010900109610000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2641010400109670001": {
+    "score": 57,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2641010700110300001": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2641011100100270009": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2641010100112170002": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2641011000101410022": {
+    "score": 48,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2641010400109790005": {
+    "score": 51,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2641010100112100001": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2641010400109870005": {
+    "score": 57,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2641011100101150002": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2641010500110000000": {
+    "score": 32,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2641011200105530000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2641011200105580000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2641011100105660000": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2641010100200800000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2641010900100640031": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2644010400136040004": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010400134830005": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010200131460002": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010100113180068": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011600118590014": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011600119230000": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011600118750004": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011600118910000": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011600119130000": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010400134030000": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011500116590000": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2644010400133980000": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010400136810000": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010400134390000": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010400134280004": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010400133490000": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010400133130009": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010400134060000": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010400134090000": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010400134550005": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011600119980000": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011500116840000": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011400112790000": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2644012100116420003": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2644011000105540003": {
+    "score": 36,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011000105820001": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011000105970002": {
+    "found": false
+  },
+  "2644011000106060000": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011200115310005": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011200115390001": {
+    "score": 24,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2644011200115390007": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2644011200115370002": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2644011500116470000": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011100113380012": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011600119030003": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011600119110016": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011600119200000": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011600118510000": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010900114550000": {
+    "found": false
+  },
+  "2644011600118990001": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010900116250000": {
+    "found": false
+  },
+  "2644010900117180000": {
+    "found": false
+  },
+  "2644010400135130003": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011700102340006": {
+    "found": false
+  },
+  "2644011700102630001": {
+    "found": false
+  },
+  "2644011700103150001": {
+    "found": false
+  },
+  "2644011700103150007": {
+    "found": false
+  },
+  "2644011400111750000": {
+    "score": 48,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2644011400111800000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2644011400111850002": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2644011400111890007": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2644011400112580000": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2644010400132340001": {
+    "found": false
+  },
+  "2644010400134830004": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010400132350001": {
+    "found": false
+  },
+  "2644010400132360001": {
+    "found": false
+  },
+  "2644010400132410001": {
+    "found": false
+  },
+  "2644010400132420004": {
+    "found": false
+  },
+  "2644010400132430003": {
+    "found": false
+  },
+  "2644010400132440001": {
+    "found": false
+  },
+  "2644010400132470000": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010400133080003": {
+    "found": false
+  },
+  "2644011500115310000": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2644011500115360001": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2644010400135770001": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011500115530007": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2644011500115590000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2644011500115280003": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2644011300111990007": {
+    "score": 28,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2644011300112180000": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2644010100113300005": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010200118700067": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010200124070001": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010200131360001": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010200131360003": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010400136020003": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644011800110680002": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2644010400113960000": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2644010400132290021": {
+    "found": false
+  },
+  "2644010400132300012": {
+    "found": false
+  },
+  "2644010400132310001": {
+    "found": false
+  },
+  "2644010400132320007": {
+    "found": false
+  },
+  "2644010400132330001": {
+    "found": false
+  },
+  "2644010400135750001": {
+    "score": 40,
+    "texture_code": "01",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2620012100200190002": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2671025034101800005": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2671025625112240000": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2617010200111050123": {
+    "found": false
+  },
+  "2671025321105340021": {
+    "score": 48,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2671025027102790007": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025033106150015": {
+    "found": false
+  },
+  "2641010500200040023": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2671033025103240002": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2671025622107310000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2671025027100050002": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025321102460013": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2650010300101810085": {
+    "found": false
+  },
+  "2650010200105540000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2650010100104970012": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2650010300101870001": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2650010100111800000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2650010100108810078": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2650010100106010001": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2650010100111700000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2671033030104150011": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671033030105430045": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2671025022100020000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671025328110620000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025625101480011": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2671025628113490000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2671033021105480006": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2671025933110540005": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025630108450005": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2671025026101930000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2671025028106360002": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025034101790017": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2671025325104110006": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2671025324102790006": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2617010100112110013": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2617010200103650002": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2617010100100250001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2617010100112020000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2617010100111700000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2617010100100450046": {
+    "found": false
+  },
+  "2617010100112060001": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2617010400108300015": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2617010400102520712": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2617010400116510000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2650010300101860000": {
+    "found": false
+  },
+  "2650010300101780021": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2650010500103180006": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2650010500105650000": {
+    "found": false
+  },
+  "2650010400102080000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2650010400102050000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2650010400113280000": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2650010400107790000": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2650010100101850003": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2650010100106010023": {
+    "found": false
+  },
+  "2650010300101250003": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2617010200100010048": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2617010200110480833": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2617010300110670000": {
+    "found": false
+  },
+  "2650010300101100007": {
+    "found": false
+  },
+  "2638010400106640000": {
+    "found": false
+  },
+  "2638010400105660024": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2638010700101120018": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2638010500103280003": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2638010400105690000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2638010400106700000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2638010200101120002": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2638010800103870015": {
+    "found": false
+  },
+  "2638010100104830018": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2638010700101500004": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2638010200100620003": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2638010400105830000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2638010400106420003": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2638010400102060001": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2638010700102970000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2638010600100400001": {
+    "found": false
+  },
+  "2626010900110310000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2626010200101830000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2626010800101350011": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2626010800117500001": {
+    "found": false
+  },
+  "2626010400102680001": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2626010800117710001": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2626010600101660002": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2626010200107580009": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2626010200112530000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2638010400106510006": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2626010200104750000": {
+    "score": 57,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2626010200112410000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2617010200105230002": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2617010100111920000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2617010300106690002": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2617010100110720001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2617010100111180004": {
+    "found": false
+  },
+  "2611012000100020004": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2611012700100420000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2611012300100510001": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2623010400108390004": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2611010100104390002": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2611010900100040001": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2611010700100260003": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2611010100100580008": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2611010700100150007": {
+    "found": false
+  },
+  "2611011800100280000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2611011600100030001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2611012000101510001": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2611014000101050002": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2611010600100200000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2611010700100170032": {
+    "found": false
+  },
+  "2614012400100550004": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2614012300105230030": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2614010300103930005": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2614010900100180046": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2614010100103370000": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2614010300100130006": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2614010200100010196": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2614010900100390000": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2614010200104280009": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2614010600100310232": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2638010600101970009": {
+    "found": false
+  },
+  "2638010600116110000": {
+    "found": false
+  },
+  "2638010400104000000": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2638010500110950000": {
+    "found": false
+  },
+  "2638010600115180006": {
+    "found": false
+  },
+  "2638010700104350049": {
+    "score": 48,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2617010100101030005": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2638010600108850001": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025622107350000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025034108130000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2671025027101760000": {
+    "found": false
+  },
+  "2671025921101090003": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2671025921107680000": {
+    "score": 24,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025327101930001": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025932101190001": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025921107670000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025921108170000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671033024103810001": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2671025627107860000": {
+    "score": 61,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "06"
+  },
+  "2671025628104230012": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2671025628113800000": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2671025921200860041": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025625109280000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671025331102000012": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "01"
+  },
+  "2671025628113460000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671025622107380000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025622107370000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025625112430000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025621104040000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671025627107840000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025624101210063": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2671025330105320010": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025321105030002": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2671033024106000005": {
+    "score": 48,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2671025025100780002": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2626010800117740001": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2626010800118530021": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2626010100106300000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2626010100100400001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2626010700108050002": {
+    "score": 48,
+    "texture_code": "02",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2626010800113840005": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2626010800113940003": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2626010200107200003": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025030201200030": {
+    "score": 48,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2638010600116700000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2638010600115820008": {
+    "found": false
+  },
+  "2629010600106700004": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2629010600119460000": {
+    "found": false
+  },
+  "2629010600102520001": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2629010600117800000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2629010900106480013": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2629010900107380004": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2626010200106380000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2626010900107490005": {
+    "score": 51,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2626010800200750002": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2626010100105680006": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2626010700101460004": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2626010700106490052": {
+    "score": 20,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2626010200106700003": {
+    "found": false
+  },
+  "2626010100101820000": {
+    "score": 42,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2626010800111120002": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2626010800108500062": {
+    "score": 43,
+    "texture_code": "02",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2629010800105990001": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2629010800102060027": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2629010700101720018": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2629010600100730040": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2629010600107350018": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2629011100102250002": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2629010600110900013": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2629010900104040001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2629010600111720113": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2629010600100720001": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2614012400106200030": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2614010500104710001": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2614010300100370030": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2614010500104030008": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2614010300102590000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2614012400201090000": {
+    "score": 61,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "06"
+  },
+  "2614012300101840001": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2638010600115090007": {
+    "found": false
+  },
+  "2638010500109140009": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2638010300108700311": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2638010100112950000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2638010400106560007": {
+    "found": false
+  },
+  "2629010600116180099": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2650010500101480016": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2650010500100780000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2650010500106070000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2629010700108940003": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2629011100100850049": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2626010600100420000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2626010400101220004": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2626010200100150029": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2614010600105450002": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2614011100100710001": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2626010300100460001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2626010500105000021": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2626010800114860000": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2626010200104730000": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2626010700108020000": {
+    "score": 20,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2626010900107370000": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2626010900109300000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2647010100111910001": {
+    "score": 39,
+    "texture_code": "02",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2626010800101820002": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2626010800101370004": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2626010800103540001": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2626010600100160000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2626010700103340002": {
+    "score": 38,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2626010700105530051": {
+    "score": 20,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2626010500104400007": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2629010900108100017": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2629010700101970000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2629010600106030007": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2629010600117400008": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2629010700100360007": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2629010900108070003": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2626010900110170001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2626010900101610001": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2626010900101610061": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2629010900112300000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2626010900101610091": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2626010800114130015": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2671025628113070003": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2617010100108150035": {
+    "found": false
+  },
+  "2617010100109210007": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2617010400116420000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2635010800108850013": {
+    "found": false
+  },
+  "2671025333201940002": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025333111100000": {
+    "score": 24,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025333111040000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2626010800103360000": {
+    "score": 43,
+    "texture_code": "02",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2626010900106620000": {
+    "score": 32,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2671025921108240000": {
+    "score": 48,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2671025932101240000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025921108960000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025921108910000": {
+    "found": false
+  },
+  "2671025921108770000": {
+    "score": 38,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025921108790000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025922109440000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025331107860066": {
+    "found": false
+  },
+  "2671025625111360001": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025328111510000": {
+    "score": 24,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2671025328111530000": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2671025331109470005": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2671025328111580000": {
+    "found": false
+  },
+  "2671033029106930000": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2671025331108710000": {
+    "score": 32,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2671025625110370001": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025329108980000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2671025333111180000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2623010100104290019": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2623010600104030000": {
+    "score": 56,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "05"
+  },
+  "2623010700102790011": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2623010700106760000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2623010400108590022": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2623010400108510005": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2623010400109460018": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2623010800100920006": {
+    "score": 34,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2623010400110080010": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2638010400105060000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2638010600100930011": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2638010600115290000": {
+    "found": false
+  },
+  "2638010400101700000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2638010500104050000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2638010300102400007": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2638010800107590008": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2638010700104020035": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2638010700104270015": {
+    "found": false
+  },
+  "2638010300111880000": {
+    "found": false
+  },
+  "2638010100101990001": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2638010700100380102": {
+    "found": false
+  },
+  "2635010500112910033": {
+    "found": false
+  },
+  "2635010500111790000": {
+    "score": 35,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2635010800104600004": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2635010600117820000": {
+    "score": 26,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2635010700113430000": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2635010700114020000": {
+    "score": 40,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "02"
+  },
+  "2623011000100600075": {
+    "score": 51,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2623010700103170009": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2638010300104910000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2638010300111490012": {
+    "score": 26,
+    "texture_code": "03",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2623010100104550001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2623010400112690001": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2623010400200410005": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2623010200108890001": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2623010100105310003": {
+    "found": false
+  },
+  "2623010400109480004": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2623011100101900002": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2623010900107920003": {
+    "score": 51,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "06"
+  },
+  "2629011100200250075": {
+    "score": 47,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "05"
+  },
+  "2617010200110730001": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2629010900111030000": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2617010100102320002": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2617010100102790002": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2617010200108060074": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2617010100111710001": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2617010100111090000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2617010400109490000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2629010900107210000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2617010400109500000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2617010200103070001": {
+    "score": 31,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "02"
+  },
+  "2617010100101030003": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2617010100111140021": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010100111170000": {
+    "score": 40,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "04"
+  },
+  "2632010300104540007": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2632010100101090001": {
+    "found": false
+  },
+  "2632010100101160000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010200122570000": {
+    "score": 22,
+    "texture_code": "04",
+    "gravel_code": "01",
+    "slope_code": "02"
+  },
+  "2632010300109500000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2632010100108130000": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2632010100101080000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010100101040000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2632010400104340000": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2632010200114310000": {
+    "score": 51,
+    "texture_code": "06",
+    "gravel_code": "02",
+    "slope_code": "03"
+  },
+  "2632010200101860000": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2632010200123420000": {
+    "score": 44,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "03"
+  },
+  "2632010200120210002": {
+    "score": 42,
+    "texture_code": "06",
+    "gravel_code": "01",
+    "slope_code": "03"
+  },
+  "2632010300108540004": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2632010400104570057": {
+    "score": 22,
+    "texture_code": "05",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2632010200123350000": {
+    "score": 50,
+    "texture_code": "04",
+    "gravel_code": "03",
+    "slope_code": "04"
+  },
+  "2632010200101890000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010500111890000": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2632010200200530014": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "05"
+  },
+  "2632010500112760000": {
+    "score": 41,
+    "texture_code": "04",
+    "gravel_code": "02",
+    "slope_code": "04"
+  },
+  "2632010500110620002": {
+    "score": 28,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "01"
+  },
+  "2632010500109720051": {
+    "score": 46,
+    "texture_code": "02",
+    "gravel_code": "01",
+    "slope_code": "05"
+  }
+}

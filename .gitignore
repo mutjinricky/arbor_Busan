@@ -1,0 +1,27 @@
+# ── 의존성·빌드 산출물 ──
+**/node_modules/
+**/dist/
+**/build/
+.vite/
+**/.vite/
+
+# ── 환경 변수 (API 키 — 절대 커밋 금지) ──
+.env
+**/.env
+.env.local
+**/.env.*.local
+
+# ── 민감·비공개 문서 (public 저장소 제외) ──
+제출서류/
+docs/2026_기후에너지환경창업대전_사업계획서_나무잇.pdf
+docs/나무잇 IR덱.pdf
+
+# ── 임시·OS·IDE ──
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo

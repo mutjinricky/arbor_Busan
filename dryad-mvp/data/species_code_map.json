@@ -1,0 +1,30 @@
+{
+  "_about": "[비활성화] 국토부 도로시설물관리시스템 표준 수종 코드 → 수종명 매핑. 현재 광주 Shapefile·의왕 단목 데이터의 수종은 '혼효림'으로 일괄 치환되어 있으며, 원본 코드 분포는 각 사이트의 _species_mix 필드에 보존됨. 향후 코드표 확보 시 본 파일의 mappings를 채우고 applySpeciesMap.mjs 실행하면 후처리 가능.",
+  "_source_hint": "광주시청 공원정책과 (031-760-2114) 또는 https://www.codil.or.kr 도로시설물관리시스템 매뉴얼",
+  "_usage": "코드를 정확한 수종명으로 채운 뒤 `node scripts/applySpeciesMap.mjs` 실행 → public/sites_real.json 후처리됨",
+  "_last_updated": null,
+  "mappings": {
+    "TRE000": null,
+    "TRE001": null,
+    "TRE002": null,
+    "TRE004": null,
+    "TRE005": null,
+    "TRE006": null,
+    "TRE012": null,
+    "TRE018": null,
+    "TRE901": null,
+    "TRE999": "기타"
+  },
+  "_frequency_in_data": {
+    "TRE018": 14816,
+    "TRE006": 5224,
+    "TRE002": 3249,
+    "TRE012": 2965,
+    "TRE001": 2397,
+    "TRE000": 1159,
+    "TRE005": 880,
+    "TRE999": 609,
+    "TRE901": 239,
+    "TRE004": 94
+  }
+}

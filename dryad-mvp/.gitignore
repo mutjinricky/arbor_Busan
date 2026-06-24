@@ -1,0 +1,58 @@
+# 의존성
+node_modules/
+
+# 빌드 산출물
+dist/
+build/
+
+# 환경 변수 (API 키 포함 — 절대 커밋 금지)
+.env
+.env.local
+.env.*.local
+
+# 원본 공공데이터 CSV (대용량, 재다운로드 가능)
+data/raw/
+
+# 경기기후플랫폼 격자 데이터 (수백 MB ~ 1GB+, 재실행 가능)
+# 시군별 폴더에 centroid + value 저장. fetchGgClimate.mjs phase4로 재수집.
+data/external/gg_climate_grid_*/
+
+# 경기기후플랫폼 Phase 2·3 raw polygon (17~20MB 각, 재실행 가능)
+# fetchGgClimate.mjs phase2 / phase3로 재수집. buildGgClimateSiteCache.mjs 입력.
+data/external/gg_climate_phase2.json
+data/external/gg_climate_phase3.json
+
+# 사이트별 PNU·토양 캐시 (재실행 가능, MB 단위)
+# VWorld 가입 + 농진청 API 키 있으면 fetchSitePnu.mjs / fetchSiteSoil.mjs로 재생성.
+data/external/site_pnu_cache.json
+data/external/site_soil_cache.json
+
+# 사이트별 통합 캐시 (격자 + 캐시 머지 결과, ~수십 MB)
+# buildGgClimateSiteCache.mjs로 재생성.
+data/external/gg_climate_by_site.json
+
+# 광주 Shapefile JSON 결과 (재변환 가능, 17KB)
+# 작은 파일이지만 etlGwangjuShapefile.mjs 재실행으로 생성 가능
+# 만약 Shapefile 원본을 다른 환경에 두지 않으려면 커밋 추천
+# data/external/gwangju_trees.json
+
+# ETL이 public/sites_real.json에 작성 (~7MB) — 빌드 chunk에서 분리되어
+# 런타임 fetch로 로드됨. 원하면 .gitignore에 추가 (재생성: node scripts/etl.mjs)
+# public/sites_real.json
+
+# 임시 파일
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 테스트 스크립트 임시
+_*.mjs
+test.html
+page*.html

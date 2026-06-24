@@ -1,0 +1,154 @@
+{
+  "_summary": "16/16개 구·군 (20260624 2300 발표 기준)",
+  "fetched_at": "2026-06-24T14:30:59.760Z",
+  "source": "기상청 단기예보 조회서비스",
+  "api_url": "https://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getVilageFcst",
+  "base_date": "20260624",
+  "base_time": "2300",
+  "by_sigun": {
+    "중구": {
+      "nx": 97,
+      "ny": 74,
+      "maxTemp": 26,
+      "minHumidity": 65,
+      "maxWind": 3,
+      "totalRain": 6,
+      "score": 11
+    },
+    "서구": {
+      "nx": 97,
+      "ny": 74,
+      "maxTemp": 26,
+      "minHumidity": 65,
+      "maxWind": 3,
+      "totalRain": 6,
+      "score": 11
+    },
+    "동구": {
+      "nx": 97,
+      "ny": 75,
+      "maxTemp": 28,
+      "minHumidity": 55,
+      "maxWind": 2.5,
+      "totalRain": 11,
+      "score": 9
+    },
+    "영도구": {
+      "nx": 98,
+      "ny": 74,
+      "maxTemp": 26,
+      "minHumidity": 65,
+      "maxWind": 3.3,
+      "totalRain": 7,
+      "score": 11
+    },
+    "부산진구": {
+      "nx": 97,
+      "ny": 75,
+      "maxTemp": 28,
+      "minHumidity": 55,
+      "maxWind": 2.5,
+      "totalRain": 11,
+      "score": 9
+    },
+    "동래구": {
+      "nx": 98,
+      "ny": 76,
+      "maxTemp": 28,
+      "minHumidity": 55,
+      "maxWind": 2.8,
+      "totalRain": 3,
+      "score": 37
+    },
+    "남구": {
+      "nx": 98,
+      "ny": 75,
+      "maxTemp": 27,
+      "minHumidity": 60,
+      "maxWind": 3,
+      "totalRain": 12,
+      "score": 9
+    },
+    "북구": {
+      "nx": 96,
+      "ny": 76,
+      "maxTemp": 30,
+      "minHumidity": 45,
+      "maxWind": 2.2,
+      "totalRain": 3,
+      "score": 56
+    },
+    "해운대구": {
+      "nx": 99,
+      "ny": 75,
+      "maxTemp": 26,
+      "minHumidity": 65,
+      "maxWind": 3.8,
+      "totalRain": 8,
+      "score": 11
+    },
+    "사하구": {
+      "nx": 96,
+      "ny": 74,
+      "maxTemp": 27,
+      "minHumidity": 65,
+      "maxWind": 2.8,
+      "totalRain": 12,
+      "score": 9
+    },
+    "금정구": {
+      "nx": 98,
+      "ny": 77,
+      "maxTemp": 29,
+      "minHumidity": 50,
+      "maxWind": 2.8,
+      "totalRain": 3,
+      "score": 48
+    },
+    "강서구": {
+      "nx": 96,
+      "ny": 76,
+      "maxTemp": 30,
+      "minHumidity": 45,
+      "maxWind": 2.2,
+      "totalRain": 3,
+      "score": 56
+    },
+    "연제구": {
+      "nx": 98,
+      "ny": 76,
+      "maxTemp": 28,
+      "minHumidity": 55,
+      "maxWind": 2.8,
+      "totalRain": 3,
+      "score": 37
+    },
+    "수영구": {
+      "nx": 99,
+      "ny": 75,
+      "maxTemp": 26,
+      "minHumidity": 65,
+      "maxWind": 3.8,
+      "totalRain": 8,
+      "score": 11
+    },
+    "사상구": {
+      "nx": 96,
+      "ny": 75,
+      "maxTemp": 29,
+      "minHumidity": 50,
+      "maxWind": 2.3,
+      "totalRain": 3,
+      "score": 48
+    },
+    "기장군": {
+      "nx": 100,
+      "ny": 77,
+      "maxTemp": 26,
+      "minHumidity": 65,
+      "maxWind": 4.4,
+      "totalRain": 15,
+      "score": 0
+    }
+  }
+}

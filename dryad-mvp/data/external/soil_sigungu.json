@@ -1,0 +1,121 @@
+{
+  "_summary": "12/16개 구·군 (대표 PNU 샘플링)",
+  "fetched_at": "2026-06-24T14:32:11.331Z",
+  "source": "농촌진흥청 토양도 기반 토양특성 단면정보 V2",
+  "api_url": "http://apis.data.go.kr/1390802/SoilEnviron/SoilCharacSctnn/V2/getSoilCharacterSctnn",
+  "note": "시군별 시청·군청 소재 법정동 대표 지번으로 샘플링. 정밀 산출은 VWorld 지오코딩 연계 필요.",
+  "by_sigun": {
+    "중구": {
+      "pnu": "2611010100100010000",
+      "texture_code": "04",
+      "gravel_code": "03",
+      "slope_code": "05",
+      "score": 56,
+      "tried": 6
+    },
+    "서구": {
+      "pnu": "2614010100100010000",
+      "texture_code": "04",
+      "gravel_code": "02",
+      "slope_code": "04",
+      "score": 41,
+      "tried": 6
+    },
+    "동구": {
+      "pnu": "2617010100105000000",
+      "texture_code": "04",
+      "gravel_code": "02",
+      "slope_code": "03",
+      "score": 35,
+      "tried": 10
+    },
+    "영도구": {
+      "pnu": "2620010100100010000",
+      "texture_code": "02",
+      "gravel_code": "01",
+      "slope_code": "01",
+      "score": 28,
+      "tried": 6
+    },
+    "부산진구": {
+      "pnu": "2623010100105000000",
+      "texture_code": "04",
+      "gravel_code": "03",
+      "slope_code": "03",
+      "score": 44,
+      "tried": 10
+    },
+    "동래구": {
+      "pnu": "2626010100200500000",
+      "texture_code": "04",
+      "gravel_code": "02",
+      "slope_code": "04",
+      "score": 41,
+      "tried": 3
+    },
+    "남구": {
+      "found": false,
+      "tried": 12
+    },
+    "북구": {
+      "pnu": "2632010100200010000",
+      "texture_code": "02",
+      "gravel_code": "01",
+      "slope_code": "05",
+      "score": 46,
+      "tried": 1
+    },
+    "해운대구": {
+      "pnu": "2635010100200010000",
+      "texture_code": "04",
+      "gravel_code": "03",
+      "slope_code": "06",
+      "score": 61,
+      "tried": 1
+    },
+    "사하구": {
+      "pnu": "2638010100100010000",
+      "texture_code": "04",
+      "gravel_code": "02",
+      "slope_code": "05",
+      "score": 47,
+      "tried": 6
+    },
+    "금정구": {
+      "pnu": "2641010100200010000",
+      "texture_code": "02",
+      "gravel_code": "01",
+      "slope_code": "06",
+      "score": 51,
+      "tried": 1
+    },
+    "강서구": {
+      "pnu": "2644010700100010000",
+      "texture_code": "06",
+      "gravel_code": "01",
+      "slope_code": "01",
+      "score": 36,
+      "tried": 16
+    },
+    "연제구": {
+      "pnu": "2647010100200500000",
+      "texture_code": "04",
+      "gravel_code": "02",
+      "slope_code": "05",
+      "score": 47,
+      "tried": 3
+    },
+    "수영구": {
+      "found": false,
+      "tried": 12
+    },
+    "사상구": {
+      "found": false,
+      "tried": 12
+    },
+    "기장군": {
+      "found": false,
+      "tried": 20
+    }
+  }
+}

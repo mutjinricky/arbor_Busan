@@ -1,0 +1,150 @@
+{
+  "_summary": "부산 16개 구·군 10년 실측 (총 133건, 179.7ha)",
+  "fetched_at": "2026-06-24T14:34:36.142Z",
+  "source": "산림청 산불피해대장 (예년 2016~2025)",
+  "source_file": "예년(16~25)산불피해대장.xls",
+  "source_url": "https://www.forest.go.kr/",
+  "note": "✅ 시도 단위 KOSIS 통계가 아닌 산림청 산불피해대장 원본(개별 산불 사건) 구·군별 집계.",
+  "granularity": "sigungu_actual",
+  "reference_year": "2025",
+  "average_period": "2016-2025 (10년)",
+  "busan_totals": {
+    "count_2025": null,
+    "area_2025_ha": null,
+    "count_10yr_total": 133,
+    "area_10yr_total_ha": 179.69,
+    "count_10yr_avg": 13.3,
+    "area_10yr_avg_ha": 18
+  },
+  "score_formula": "score = max(15, min(85, count_yr × 6 + area_ha_yr × 0.8)) — 시군 변별력 확보용 정규화",
+  "by_sigun": {
+    "중구": {
+      "score": 15,
+      "count_yr": 0,
+      "area_ha_yr": 0,
+      "count_10yr_total": 0,
+      "area_10yr_total_ha": 0,
+      "source": "산림청 산불피해대장 2016~2025 (실측)"
+    },
+    "서구": {
+      "score": 15,
+      "count_yr": 0.3,
+      "area_ha_yr": 0.04,
+      "count_10yr_total": 3,
+      "area_10yr_total_ha": 0.37,
+      "source": "산림청 산불피해대장 2016~2025 (실측)"
+    },
+    "동구": {
+      "score": 15,
+      "count_yr": 0.2,
+      "area_ha_yr": 0,
+      "count_10yr_total": 2,
+      "area_10yr_total_ha": 0.02,
+      "source": "산림청 산불피해대장 2016~2025 (실측)"
+    },
+    "영도구": {
+      "score": 15,
+      "count_yr": 0.7,
+      "area_ha_yr": 0.4,
+      "count_10yr_total": 7,
+      "area_10yr_total_ha": 4.03,
+      "source": "산림청 산불피해대장 2016~2025 (실측)"
+    },
+    "부산진구": {
+      "score": 15,
+      "count_yr": 0.4,
+      "area_ha_yr": 0.02,
+      "count_10yr_total": 4,
+      "area_10yr_total_ha": 0.23,
+      "source": "산림청 산불피해대장 2016~2025 (실측)"
+    },
+    "동래구": {
+      "score": 15,
+      "count_yr": 0.4,
+      "area_ha_yr": 0.02,
+      "count_10yr_total": 4,
+      "area_10yr_total_ha": 0.22,
+      "source": "산림청 산불피해대장 2016~2025 (실측)"
+    },
+    "남구": {
+      "score": 15,
+      "count_yr": 0.3,
+      "area_ha_yr": 0.01,
+      "count_10yr_total": 3,
+      "area_10yr_total_ha": 0.05,
+      "source": "산림청 산불피해대장 2016~2025 (실측)"
+    },
+    "북구": {
+      "score": 15,
+      "count_yr": 0.6,
+      "area_ha_yr": 0.08,
+      "count_10yr_total": 6,
+      "area_10yr_total_ha": 0.78,
+      "source": "산림청 산불피해대장 2016~2025 (실측)"
+    },
+    "해운대구": {
+      "score": 15,
+      "count_yr": 0.8,
+      "area_ha_yr": 5.75,
+      "count_10yr_total": 8,
+      "area_10yr_total_ha": 57.52,
+      "source": "산림청 산불피해대장 2016~2025 (실측)"
+    },
+    "사하구": {
+      "score": 15,
+      "count_yr": 2.1,
+      "area_ha_yr": 0.31,
+      "count_10yr_total": 21,
+      "area_10yr_total_ha": 3.13,
+      "source": "산림청 산불피해대장 2016~2025 (실측)"
+    },
+    "금정구": {
+      "score": 15,
+      "count_yr": 1.7,
+      "area_ha_yr": 2.08,
+      "count_10yr_total": 17,
+      "area_10yr_total_ha": 20.8,
+      "source": "산림청 산불피해대장 2016~2025 (실측)"
+    },
+    "강서구": {
+      "score": 15,
+      "count_yr": 0.6,
+      "area_ha_yr": 0.57,
+      "count_10yr_total": 6,
+      "area_10yr_total_ha": 5.7,
+      "source": "산림청 산불피해대장 2016~2025 (실측)"
+    },
+    "연제구": {
+      "score": 15,
+      "count_yr": 0.5,
+      "area_ha_yr": 0.01,
+      "count_10yr_total": 5,
+      "area_10yr_total_ha": 0.05,
+      "source": "산림청 산불피해대장 2016~2025 (실측)"
+    },
+    "수영구": {
+      "score": 15,
+      "count_yr": 0.2,
+      "area_ha_yr": 0,
+      "count_10yr_total": 2,
+      "area_10yr_total_ha": 0.02,
+      "source": "산림청 산불피해대장 2016~2025 (실측)"
+    },
+    "사상구": {
+      "score": 15,
+      "count_yr": 0.9,
+      "area_ha_yr": 0.07,
+      "count_10yr_total": 9,
+      "area_10yr_total_ha": 0.72,
+      "source": "산림청 산불피해대장 2016~2025 (실측)"
+    },
+    "기장군": {
+      "score": 28,
+      "count_yr": 3.6,
+      "area_ha_yr": 8.61,
+      "count_10yr_total": 36,
+      "area_10yr_total_ha": 86.05,
+      "source": "산림청 산불피해대장 2016~2025 (실측)"
+    }
+  }
+}

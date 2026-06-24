@@ -1,0 +1,232 @@
+{
+  "_summary": "부산 16개 구·군",
+  "fetched_at": "2026-06-24T14:30:01.654Z",
+  "source": "산림청_국립산림과학원 산불위험예보정보 V2",
+  "api_url": "https://apis.data.go.kr/1400377/forestPointV2/forestPointListSigunguSearchV2",
+  "by_sigun": {
+    "중구": {
+      "sigun": "중구",
+      "regioncode": 26110,
+      "meanavg": 18,
+      "mini": 11,
+      "maxi": 27,
+      "grade_dist": {
+        "낮음": 100,
+        "다소높음": 0,
+        "높음": 0,
+        "매우높음": 0
+      },
+      "analdate": "2026-06-24 22"
+    },
+    "서구": {
+      "sigun": "서구",
+      "regioncode": 26140,
+      "meanavg": 17,
+      "mini": 9,
+      "maxi": 30,
+      "grade_dist": {
+        "낮음": 100,
+        "다소높음": 0,
+        "높음": 0,
+        "매우높음": 0
+      },
+      "analdate": "2026-06-24 22"
+    },
+    "동구": {
+      "sigun": "동구",
+      "regioncode": 26170,
+      "meanavg": 19,
+      "mini": 10,
+      "maxi": 28,
+      "grade_dist": {
+        "낮음": 100,
+        "다소높음": 0,
+        "높음": 0,
+        "매우높음": 0
+      },
+      "analdate": "2026-06-24 22"
+    },
+    "영도구": {
+      "sigun": "영도구",
+      "regioncode": 26200,
+      "meanavg": 16,
+      "mini": 11,
+      "maxi": 21,
+      "grade_dist": {
+        "낮음": 100,
+        "다소높음": 0,
+        "높음": 0,
+        "매우높음": 0
+      },
+      "analdate": "2026-06-24 22"
+    },
+    "부산진구": {
+      "sigun": "부산진구",
+      "regioncode": 26230,
+      "meanavg": 18,
+      "mini": 10,
+      "maxi": 30,
+      "grade_dist": {
+        "낮음": 100,
+        "다소높음": 0,
+        "높음": 0,
+        "매우높음": 0
+      },
+      "analdate": "2026-06-24 22"
+    },
+    "동래구": {
+      "sigun": "동래구",
+      "regioncode": 26260,
+      "meanavg": 18,
+      "mini": 9,
+      "maxi": 27,
+      "grade_dist": {
+        "낮음": 100,
+        "다소높음": 0,
+        "높음": 0,
+        "매우높음": 0
+      },
+      "analdate": "2026-06-24 22"
+    },
+    "남구": {
+      "sigun": "남구",
+      "regioncode": 26290,
+      "meanavg": 21,
+      "mini": 9,
+      "maxi": 27,
+      "grade_dist": {
+        "낮음": 100,
+        "다소높음": 0,
+        "높음": 0,
+        "매우높음": 0
+      },
+      "analdate": "2026-06-24 22"
+    },
+    "북구": {
+      "sigun": "북구",
+      "regioncode": 26320,
+      "meanavg": 17,
+      "mini": 9,
+      "maxi": 30,
+      "grade_dist": {
+        "낮음": 100,
+        "다소높음": 0,
+        "높음": 0,
+        "매우높음": 0
+      },
+      "analdate": "2026-06-24 22"
+    },
+    "해운대구": {
+      "sigun": "해운대구",
+      "regioncode": 26350,
+      "meanavg": 17,
+      "mini": 8,
+      "maxi": 27,
+      "grade_dist": {
+        "낮음": 100,
+        "다소높음": 0,
+        "높음": 0,
+        "매우높음": 0
+      },
+      "analdate": "2026-06-24 22"
+    },
+    "사하구": {
+      "sigun": "사하구",
+      "regioncode": 26380,
+      "meanavg": 21,
+      "mini": 9,
+      "maxi": 30,
+      "grade_dist": {
+        "낮음": 100,
+        "다소높음": 0,
+        "높음": 0,
+        "매우높음": 0
+      },
+      "analdate": "2026-06-24 22"
+    },
+    "금정구": {
+      "sigun": "금정구",
+      "regioncode": 26410,
+      "meanavg": 16,
+      "mini": 8,
+      "maxi": 27,
+      "grade_dist": {
+        "낮음": 100,
+        "다소높음": 0,
+        "높음": 0,
+        "매우높음": 0
+      },
+      "analdate": "2026-06-24 22"
+    },
+    "강서구": {
+      "sigun": "강서구",
+      "regioncode": 26440,
+      "meanavg": 21,
+      "mini": 10,
+      "maxi": 35,
+      "grade_dist": {
+        "낮음": 100,
+        "다소높음": 0,
+        "높음": 0,
+        "매우높음": 0
+      },
+      "analdate": "2026-06-24 22"
+    },
+    "연제구": {
+      "sigun": "연제구",
+      "regioncode": 26470,
+      "meanavg": 16,
+      "mini": 9,
+      "maxi": 28,
+      "grade_dist": {
+        "낮음": 100,
+        "다소높음": 0,
+        "높음": 0,
+        "매우높음": 0
+      },
+      "analdate": "2026-06-24 22"
+    },
+    "수영구": {
+      "sigun": "수영구",
+      "regioncode": 26500,
+      "meanavg": 17,
+      "mini": 9,
+      "maxi": 27,
+      "grade_dist": {
+        "낮음": 100,
+        "다소높음": 0,
+        "높음": 0,
+        "매우높음": 0
+      },
+      "analdate": "2026-06-24 22"
+    },
+    "사상구": {
+      "sigun": "사상구",
+      "regioncode": 26530,
+      "meanavg": 19,
+      "mini": 12,
+      "maxi": 30,
+      "grade_dist": {
+        "낮음": 100,
+        "다소높음": 0,
+        "높음": 0,
+        "매우높음": 0
+      },
+      "analdate": "2026-06-24 22"
+    },
+    "기장군": {
+      "sigun": "기장군",
+      "regioncode": 26710,
+      "meanavg": 17,
+      "mini": 8,
+      "maxi": 27,
+      "grade_dist": {
+        "낮음": 100,
+        "다소높음": 0,
+        "높음": 0,
+        "매우높음": 0
+      },
+      "analdate": "2026-06-24 22"
+    }
+  }
+}
