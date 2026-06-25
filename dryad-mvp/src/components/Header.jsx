@@ -38,12 +38,12 @@ export default function Header({
           </div>
           <div>
             <div className="text-lg font-bold tracking-tight text-slate-900">
-              DRYAD 산림 AI 수목관리 대시보드
+              DRYAD · 부산 도시숲·가로수 AI 수목관리 대시보드
             </div>
             <div className="flex items-center gap-1.5 text-xs text-slate-500">
-              <span>산림 공공데이터·AI 기반 수목관리 의사결정 지원 · 2026 산림 공공데이터·AI 활용 창업경진대회</span>
+              <span>부산 공공데이터·AI 기반 수목관리 의사결정 지원 · 2026 부산광역시 공공데이터·AI 활용 창업경진대회</span>
               <span className="mx-1 text-slate-300">|</span>
-              <SourcePill tone="forest" label={`실제 ${realCount}`} title="ETL이 산림 공공데이터에서 가져온 사이트 (부산 16개 구·군 1차 파일럿)" />
+              <SourcePill tone="forest" label={`실제 ${realCount}`} title="ETL이 부산 공공데이터에서 가져온 사이트 (부산 16개 구·군 1차 파일럿)" />
               {sampleCount > 0 && (
                 <SourcePill tone="slate" label={`샘플 ${sampleCount}`} title="시연용 보조 샘플" />
               )}
